@@ -1,0 +1,4 @@
+C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/DesktopSpriter.dir
+C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/DesktopSpriter_autogen.dir

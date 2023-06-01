@@ -1,0 +1,22 @@
+# ninja log v5
+54	932	7073071668845289	DesktopSpriter.exe	8a1eaa538aba639d
+4	54	0	CMakeFiles/DesktopSpriter_autogen	9d7a4b3da403f2ff
+4	54	0	DesktopSpriter_autogen/mocs_compilation.cpp	9d7a4b3da403f2ff
+4	54	0	C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/DesktopSpriter_autogen/mocs_compilation.cpp	9d7a4b3da403f2ff
+4	54	0	C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/DesktopSpriter_autogen	9d7a4b3da403f2ff
+0	363	7073207021569793	build.ninja	7e9bbebf7f83cb85
+1531	3121	7073070836784353	CMakeFiles/DesktopSpriter.dir/main.cpp.obj	9913d4907a6c0df1
+1524	2951	7073070835087088	CMakeFiles/DesktopSpriter.dir/DesktopSpriter_autogen/mocs_compilation.cpp.obj	b5843abcb49f8e2e
+1535	2951	7073070835086482	CMakeFiles/DesktopSpriter.dir/Spriter.cpp.obj	8c707ed56056501e
+1527	2950	7073070835076787	CMakeFiles/DesktopSpriter.dir/Sprite.cpp.obj	7e6b757343a39bc5
+1538	3122	7073070836784353	CMakeFiles/DesktopSpriter.dir/Nahida.cpp.obj	17355b0e93c91ae7
+4	295	0	CMakeFiles/DesktopSpriter_autogen	37d866e5bdc190b4
+4	295	0	DesktopSpriter_autogen/mocs_compilation.cpp	37d866e5bdc190b4
+4	295	0	C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/CMakeFiles/DesktopSpriter_autogen	37d866e5bdc190b4
+4	295	0	C:/Users/kanade/CLionProjects/DesktopSpriter/cmake-build-debug/DesktopSpriter_autogen/mocs_compilation.cpp	37d866e5bdc190b4
+296	1674	7073207461978134	CMakeFiles/DesktopSpriter.dir/DesktopSpriter_autogen/mocs_compilation.cpp.obj	1e878ec27bde5408
+306	1678	7073207462027978	CMakeFiles/DesktopSpriter.dir/Sprite.cpp.obj	98399cd01ca0039a
+299	1683	7073207462067840	CMakeFiles/DesktopSpriter.dir/main.cpp.obj	f76b051cd8a3650e
+303	1693	7073207462167550	CMakeFiles/DesktopSpriter.dir/Spriter.cpp.obj	653c4d55890cf8bc
+310	1703	7073207462267219	CMakeFiles/DesktopSpriter.dir/Nahida.cpp.obj	2ff810ff8899ec97
+1703	2916	7073207465345035	DesktopSpriter.exe	14f7d9ed74b6e6f6
